@@ -1,9 +1,3 @@
-# CTCAC Financing Cost Benchmarker
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
-![Status](https://img.shields.io/badge/Status-Complete-success)
-
 # CTCAC Tax Credit Application Parser
 
 ## 1. The Assignment 
